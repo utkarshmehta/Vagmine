@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "vagmine-71fe9": {
+      "hosting": {
+        "Vagmine": [
+          "vagmine-71fe9"
+        ]
+      }
+    }
+  }
+}
